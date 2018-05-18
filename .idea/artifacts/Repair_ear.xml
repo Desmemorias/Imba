@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="Repair:ear">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ua.desm.repair-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="Repair:ear exploded" />
+    </root>
+  </artifact>
+</component>
